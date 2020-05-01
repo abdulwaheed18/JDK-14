@@ -1,0 +1,8 @@
+
+
+Enable preview feature in Intellij Idea
+ - As JDK14 is the latest relaese, Your Intellij need to be update to support JDK14
+ - Configiure JDK 14 as your JDK under Project -> Project Structure -> Project SDK
+ - Set Project Level langaue as 14(Preview) Record, Pattern, text block (Check Screenshot)
+ - If you can't see Option 14 means your Intellij IDEA is not update.
+ - Update same under module as well (Check Screenshot)
