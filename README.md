@@ -9,13 +9,13 @@ Contributor: Abdul Waheed [abdulwaheed18@gmail.com]
 ### Enable preview feature in IntelliJ Idea
  - As JDK14 is the latest relaese, Your Intellij need to be update to support JDK14
  - Configiure JDK 14 as your JDK under Project -> Project Structure -> Project SDK
- - Set Project Level langaue as 14(Preview) Record, Pattern, text block.
+ - Set Project Level langaue as 14(Preview) Record, Pattern, text block. Enable via Project
  - If you can't see Option 14 means your Intellij IDEA is not update.
- - Update same under module as well (Check Screenshot)
+ - Update same under module as well. Enable via Module
  
- ![Generated Code by Elcipse](screenshot/enablePreviewFeatureProject.JPG)
- ![Generated Code by Elcipse](screenshot/enablePreviewFeature.JPG)
+ ![Enable via Project](screenshot/enablePreviewFeatureProject.JPG)
+ ![Enable via Module](screenshot/enablePreviewFeature.JPG)
 
 **JDK 14** tutorial will cover below features
 
-- InstanceOf (Preview)
+- InstanceOf (Preview feature)
