@@ -6,6 +6,9 @@ package com.waheedtechblog.jdk14;
  * <p>
  * Note: Enable preview feature to run it. Check README to enable it.
  * <p>
+ *
+ *  https://openjdk.java.net/jeps/305
+ *
  * Abdul Waheed
  */
 public class InstanceOfMatching {
@@ -36,7 +39,7 @@ public class InstanceOfMatching {
         // Will check whether message is instanceOf String Object
         //if yes then assign it variable str else will skip it.
         // Developer doesn't need to worry about typecast here
-        if (message instanceof String str) {
+        if (message instanceof String str) { ///cast and bind variable in one line
             System.out.println(str);
         }
     }
