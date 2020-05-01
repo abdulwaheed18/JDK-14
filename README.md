@@ -18,4 +18,7 @@ Contributor: Abdul Waheed [abdulwaheed18@gmail.com]
 
 **JDK 14** tutorial will cover below features
 
-- InstanceOf (Preview feature)
+- [InstanceOf (Preview feature)](https://github.com/abdulwaheed18/JDK-14/blob/master/src/com/waheedtechblog/jdk14/InstanceOfMatching.java)
+- [NullPointerExceptions](https://github.com/abdulwaheed18/JDK-14/blob/master/src/com/waheedtechblog/jdk14/NullPointerExceptions.java)
+- [Switch Expressions (Now Standard feature)](https://github.com/abdulwaheed18/JDK-14/blob/master/src/com/waheedtechblog/jdk14/SwitchExpressions.java)
+- [Text Blocks (Preview feature)](https://github.com/abdulwaheed18/JDK-14/blob/master/src/com/waheedtechblog/jdk14/TextBlocks.java)
